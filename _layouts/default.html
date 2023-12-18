@@ -17,6 +17,8 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
+        
+
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
@@ -39,6 +41,13 @@
         </ul>
         {% endif %}
       </header>
+
+
+      <header>
+         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+         <!-- Other header content -->
+      </header>
+
       <section>
 
       {{ content }}
