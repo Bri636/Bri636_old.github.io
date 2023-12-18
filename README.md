@@ -1,13 +1,17 @@
 # Brian Hsu
 
-Hi, my name is Brian Hsu. I am a Masters student at Northwestern University studying Statistics and Data Science. My primary interests are in harnessing generative AI and deep learning techniques to develop embodied agent AI. Currently, my research is focused into two projects: 
+Hi! My name is Brian Hsu. I am a Master's student at Northwestern University studying Statistics and Data Science. I am interested in developing embodied agents through generative AI and other deep learning techniques.
 
-## My Current Research Jobs: 
-### Argonne National Laboratory Research - Large Language Models and Embodied Agents for Self-Driving Labs:
+I have experience in deep learning, generative models (large language models + diffusion models), and reinforcement learning. 
+
+My background is Statistics + Biology + Coding. 
+
+## Current Research: 
+### 1. Argonne National Laboratory - Large Language Models + Embodied Agents for Self-Driving Labs:
 
 * The goal of my research at ANL is to develop LLM-driven embodied agents for scientific workflows. Specifically, I use LLMs to develop embodied agents with reasoning and control, and mount them on virtual and robotic platforms that will automate biology experiments. I work under the Ramanathan Lab as well as the Rapid Prototyping Lab at Argonne to make this possible!
 
-### Northwestern University Research - Large Language Models and Diffusion Models for Robust Reinforcement Learning Agents: 
+### 2. Northwestern University - Large Language Models + Diffusion Models for Robust Reinforcement Learning Agents: 
 
 
 ## Potential applications for my research include: 
