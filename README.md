@@ -9,11 +9,11 @@ Brian Hsu
 
 Current Research: 
 ====================
-### 1. Argonne National Laboratory - Large Language Models + Embodied Agents for Self-Driving Labs:
+### 1. Argonne National Laboratory - Embodied AI 🤖 + Self-Driving Labs 🧬:
 
 * The goal of my research at ANL is to develop LLM-driven embodied agents for scientific workflows. Specifically, I use LLMs to develop embodied agents with reasoning and control, and mount them on virtual and robotic platforms that will automate biology experiments. I work under the Ramanathan Lab as well as the Rapid Prototyping Lab at Argonne to make this possible!
 
-### 2. Northwestern University - Large Language Models + Diffusion Models for Reinforcement Learning: 
+### 2. Northwestern University - Generative AI 🤖 + Reinforcement Learning Robotics 🦾: 
 
 
 ## Potential applications for my research include: 
