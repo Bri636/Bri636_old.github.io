@@ -1,10 +1,10 @@
 # Brian Hsu
 
-Hi! My name is Brian Hsu. I am a Master's student at Northwestern University studying Statistics and Data Science. I am interested in developing embodied agents through generative AI and other deep learning techniques.
+**Hi! My name is Brian Hsu. I am a Master's student at Northwestern University studying Statistics and Data Science. I am interested in developing embodied agents through generative AI and other deep learning techniques.**
 
-I have experience in deep learning, generative models (large language models + diffusion models), and reinforcement learning. 
+**I have experience in deep learning, generative models (large language models + diffusion models), and reinforcement learning.**
 
-My background is Statistics + Biology + Coding. 
+**My background is Statistics + Biology + Coding.** 
 
 ## Current Research: 
 ### 1. Argonne National Laboratory - Large Language Models + Embodied Agents for Self-Driving Labs:
