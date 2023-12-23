@@ -552,6 +552,10 @@ small {
   color: #008073 !important;
 }
 
+.royal-blue-text {
+  background-color: #4169e1 !important;
+}
+
 /* .teal-text {
   color: #0b5e86 !important;
 } */
@@ -562,6 +566,9 @@ small {
   background-color: #008073 !important;
 }
 
+.royal-blue {
+  background-color: #4169e1 !important;
+}
 /* .teal {
   background-color: #00695c !important;
 } */
