@@ -318,9 +318,14 @@ h3 {
   background: url(../../assets/img/white-ai-wallpaper.jpg) no-repeat top center/cover;
   position: relative;
 } */
-
+/*
 #intro.section {
   background: #4169e1 repeat;
+  position: relative;
+}*/
+
+#intro.section {
+  background: linear-gradient(to bottom, #000080, #4169e1);
   position: relative;
 }
 
