@@ -570,10 +570,16 @@ small {
 .teal {
   background-color: #008073 !important;
 }
-
+/*
 .royal-blue {
   background-color: #4169e1 !important;
+  background-color: linear-gradient(to bottom, #000080, #4169e1);
+}*/
+
+.royal-blue {
+  background-color: linear-gradient(to bottom, #000080, #4169e1);
 }
+
 /* .teal {
   background-color: #00695c !important;
 } */
